@@ -1,7 +1,7 @@
 import os
 
 # --- Основные настройки ---
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_СЮДА_ТОКЕН_БОТА")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8931268434:AAFueu8bchNprBovQgzRdedRfrONB6pNr-U")
 
 # ID админов (можно несколько)
 ADMIN_IDS = [
